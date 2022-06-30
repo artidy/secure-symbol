@@ -1,0 +1,14 @@
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.deps.json
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.runtimeconfig.json
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.runtimeconfig.dev.json
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.dll
+/Users/andreypechennikov/projects/MyFirstApp/bin/Debug/netcoreapp3.1/MyFirstApp.pdb
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.csproj.AssemblyReference.cache
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.AssemblyInfoInputs.cache
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.AssemblyInfo.cs
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.dll
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.pdb
+/Users/andreypechennikov/projects/MyFirstApp/obj/Debug/netcoreapp3.1/MyFirstApp.genruntimeconfig.cache
